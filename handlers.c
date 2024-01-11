@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * _fputs - Custom implementation of fputs function
  * @str: String to be printed

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * parse_command - parse the command string into tokens
